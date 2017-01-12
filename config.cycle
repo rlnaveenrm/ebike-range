@@ -1,0 +1,12 @@
+#All units are SI
+crr=0.004
+m=105
+airden=1.2
+farea=0.88
+cd=0.36
+J=5
+reff=1
+hupo=50
+#Enter 0 or 1 to enable or disable
+regen=1
+batcap=350
